@@ -12,8 +12,6 @@ netflixgpt page
   (display the content according to searched content)
 
 
-
-
 (browse page) after the authentication
  -header
  -movie part
